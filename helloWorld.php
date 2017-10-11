@@ -1,4 +1,4 @@
 <?php
-echo "fet per gurpreet";
+echo "Fet per gurpreet";
 phpinfo();
 ?>
