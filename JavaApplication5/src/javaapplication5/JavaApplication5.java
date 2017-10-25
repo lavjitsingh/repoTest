@@ -7,7 +7,7 @@ package javaapplication5;
 
 /**
  *
- * @author Escriptori
+ * @author lsingh
  */
 public class JavaApplication5 {
 
@@ -17,6 +17,11 @@ public class JavaApplication5 {
     public static void main(String[] args) {
         // TODO code application logic here
         //redouane
+        
+        int num1 = 2;
+        int num2 = 3;
+        
+        System.out.println("La suma es: " + (num1 + num2));
     }
     
 }
