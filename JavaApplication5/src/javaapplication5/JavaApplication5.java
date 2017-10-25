@@ -21,6 +21,8 @@ public class JavaApplication5 {
         int num1 = 2;
         int num2 = 3;
         
+        String nom = "hola aquesta es una prova de modificació arxiu";
+        
         System.out.println("La suma es: " + (num1 + num2));
     }
     
