@@ -18,12 +18,12 @@ public class JavaApplication5 {
         // TODO code application logic here
         //redouane
         
-        int num1 = 2;
-        int num2 = 3;
+        int num1 = 17;
+        int num2 = 5;
         
-        String nom = "hola aquesta es una prova de modificació arxiu";
+        //Eh modificat aquest arxiu. Lavjit Singh.
         
-        System.out.println("La suma es: " + (num1 + num2));
+        System.out.println("La resta es: " + (num1 - num2));
     }
     
 }
