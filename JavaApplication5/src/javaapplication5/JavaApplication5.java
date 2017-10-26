@@ -23,7 +23,7 @@ public class JavaApplication5 {
         
         //Eh modificat aquest arxiu. Lavjit Singh.
         
-        System.out.println("La resta es: " + (num1 - num2));
+        System.out.println("La resta és: " + (num1 - num2));
     }
     
 }
